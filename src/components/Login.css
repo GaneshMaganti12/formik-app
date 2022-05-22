@@ -1,0 +1,24 @@
+.login-card{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 300px;
+}
+.form-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.label{
+    margin-top: 10px;
+    font-size: 13px;
+}
+.title{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
+.button{
+    align-self: center;
+    margin-top: 15px
+}
